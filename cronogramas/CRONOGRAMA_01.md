@@ -72,6 +72,6 @@ Simples cronograma de ensino para introdução de pessoas ao mundo da programaç
     [ ] Item 1: Entenda o seu perfil.
     [ ] Item 2: A tecnologia nunca para.
     [ ] Item 3: Não se apegue a linguagens.
-    [ ] Item 4: Experiência é tempo + repetição + erros.
-    [ ] Item 5: Copiar e colar é inimigo do aprendizado.
-    [ ] Item 6: Sem algo produção, sem experiência comprovada.
+    [ ] Item 4: Copiar e colar é inimigo do aprendizado.
+    [ ] Item 5: Se não publicou, não obteve experiência.
+    [ ] Item 6: Experiência é tempo + repetição + resoluções de problemas.
