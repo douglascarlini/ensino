@@ -1,7 +1,7 @@
-# Cronograma de Aulas de Introdução à Programação
-Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aulas.
+# Cronograma de Estudos de Introdução à Programação
+Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Passos.
 
-### Aula 1: Mentalidade e Observação
+### Passo 1: Mentalidade e Observação
 
 > Um programador deve observar e entender o mundo ao seu redor.
 
@@ -11,7 +11,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 4: Como funciona um computador - CPU, RAM e DISK.
     [ ] Item 5: O Inglês é indispensável.
 
-### Aula 2: Lógica e Operações Matemáticas
+### Passo 2: Lógica e Operações Matemáticas
 
 > Um programador deve saber as ferramentas disponíveis e quando usá-las.
 
@@ -20,7 +20,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 3: Formas de armazenar dados para trabalhar com eles (variáveis e constantes).
     [ ] Item 3: Exercícios práticos de lógica e operações matemáticas.
 
-### Aula 3: Tipos de Dados
+### Passo 3: Tipos de Dados
 
 > Um programador deve saber com o que está trabalhando e qual o resultado esperado.
 
@@ -28,7 +28,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 2: Estruturas de dados simples (listas e conjuntos).
     [ ] Item 3: Exercícios práticos com tipos de dados.
 
-### Aula 4: Algoritmos
+### Passo 4: Algoritmos
 
 > Um programador deve saber organizar e separar a resolução de um problema em etapas.
 
@@ -37,7 +37,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 3: Laços de repetição (para, enquanto).
     [ ] Item 4: Revisão e exercícios práticos.
 
-### Aula 5: Resolução de Problemas Cotidianos com Algoritmos
+### Passo 5: Resolução de Problemas Cotidianos com Algoritmos
 
 > Um programador deve saber aplicar e/ou implantar aquilo que desenvolveu.
 
@@ -45,7 +45,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 2: Projeto prático - desenvolvimento de algoritmos para solucionar problemas simples.
     [ ] Item 3: Refinamento e otimização de algoritmos.
 
-### Aula 6: Linguagens de Programação
+### Passo 6: Linguagens de Programação
 
 > Um programador deve saber conversar com o computador.
 
@@ -53,7 +53,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 2: Quais os tipos de linguages e como funcionam.
     [ ] Item 3: Sintaxe - cada linguagem tem sua própria estrutura.
 
-### Aula 7: Primeiro Código em Python
+### Passo 7: Primeiro Código em Python
 
 > Um programador deve saber escolher a melhor linguagem para resolver um problema específico.
 
@@ -62,7 +62,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 3: Projeto prático - escrevendo um programa simples.
     [ ] Item 4: Revisão geral e aprimoramento do programa.
 
-### Aula Bônus: Segredos
+### Passo Bônus: Segredos
 
 > Um programador deve buscar evolução constante.
 
