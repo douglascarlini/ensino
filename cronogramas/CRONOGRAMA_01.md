@@ -69,8 +69,9 @@ Simples cronograma de ensino para introdução de pessoas ao mundo da programaç
 
 > Um programador deve buscar evolução constante.
 
-    [ ] Item 1: A tecnologia nunca para.
-    [ ] Item 2: Não se apegue a linguagens.
-    [ ] Item 3: Experiência é tempo + repetição + erros.
-    [ ] Item 4: Copiar e colar é inimigo do aprendizado.
-    [ ] Item 5: Sem algo produção, sem experiência comprovada.
+    [ ] Item 1: Entenda o seu perfil.
+    [ ] Item 2: A tecnologia nunca para.
+    [ ] Item 3: Não se apegue a linguagens.
+    [ ] Item 4: Experiência é tempo + repetição + erros.
+    [ ] Item 5: Copiar e colar é inimigo do aprendizado.
+    [ ] Item 6: Sem algo produção, sem experiência comprovada.
