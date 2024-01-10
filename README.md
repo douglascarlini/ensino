@@ -67,6 +67,6 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
 > Um programador deve buscar evolução constante.
 
     [ ] Item 1: A tecnologia nunca para.
-    [ ] Item 2: Copiar e colar é seu inimigo.
     [ ] Item 3: Experiência é tempo + repetição + erros.
+    [ ] Item 2: Copiar e colar é inimigo do aprendizado.
     [ ] Item 4: Sem algo produção, sem experiência comprovada.
