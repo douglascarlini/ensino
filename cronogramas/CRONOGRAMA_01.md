@@ -10,7 +10,7 @@ Simples cronograma de ensino para introdução de pessoas ao mundo da programaç
 
     [ ] Item 1: Identificar padrões e se aprofundar no funcionamento das coisas naturais.
     [ ] Item 2: Isolar problemas cotidianos e analisar suas possíveis resoluções.
-    [ ] Item 3: Comece com o básico e seja pessimista - lidar com erros.
+    [ ] Item 3: Comece com o básico e seja pessimista - lidar com problemas.
     [ ] Item 4: Como funciona um computador - CPU, RAM e DISK.
     [ ] Item 5: O Inglês é indispensável.
 
