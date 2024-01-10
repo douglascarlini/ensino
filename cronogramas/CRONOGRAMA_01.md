@@ -18,7 +18,7 @@ Simples cronograma de ensino para introdução de pessoas ao mundo da programaç
 
 >  Um programador deve saber as ferramentas disponíveis e quando usá-las.
 
-    [ ] Item 1: Introdução à lógica de programação (e, ou, não, igual, diferente, maior que, e mais).
+    [ ] Item 1: Introdução à lógica de programação (e, ou, não, igual, diferente, maior que, etc).
     [ ] Item 2: Operadores matemáticos na programação (adição, subtração, multiplicação, etc).
     [ ] Item 3: Formas de armazenar dados para trabalhar com eles (variáveis e constantes).
     [ ] Item 4: Exercícios práticos de lógica e operações matemáticas.
