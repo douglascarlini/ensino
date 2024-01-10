@@ -9,6 +9,7 @@ Jornada de Aprendizado de Programação: Da Mentalidade à Prática em Sete Aula
     [ ] Item 2: Isolar problemas cotidianos e analisar suas possíveis resoluções.
     [ ] Item 3: Começe com o básico e seja pessimista - lidar com erros.
     [ ] Item 4: Como funciona um computador - CPU, RAM e DISK.
+    [ ] Item 5: O Inglês é indispensável.
 
 ### Aula 2: Lógica e Operações Matemáticas
 
